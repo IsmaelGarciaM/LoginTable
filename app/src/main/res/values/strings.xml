@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LogInTable</string>
+    <string name="txtUser">Usuario</string>
+    <string name="txtPass">Contraseña</string>
+    <string name="cbxRemember">¿Recordar?</string>
+    <string name="btnOk">Ok</string>
+    <string name="btnCancel">Cancelar</string>
+    
+
+
+</resources>
